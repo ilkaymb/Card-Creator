@@ -99,7 +99,7 @@ export default function Home() {
             </Col>
             <Col sm="12" md="12" lg="4">
               <center className="my-3">
-                <h3>Card React Code</h3>
+                <h3>Card Next.js Code</h3>
               </center>
               <pre
                 style={{
@@ -141,7 +141,7 @@ export default function Home() {
                 <br />
                 &gt;
                 <br />
-                &lt;img
+                &lt;Image
                 <br />
                 src="/image-placeholder.svg"
                 <br />
