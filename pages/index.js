@@ -109,7 +109,7 @@ export default function Home() {
                   height: 350,
                 }}
               >
-                &lt;div style=&#x7B;
+                &lt;div style=&#x7B;&#x7B;
                 <br />
                 width: "{`${cardWidth}`}",
                 <br />
@@ -129,7 +129,7 @@ export default function Home() {
                 <br />
                 &#x7D;&gt;
                 <br />
-                &lt;div style=&#x7B;
+                &lt;div style=&#x7B;&#x7B;
                 <br />
                 width: "{`${imageWidth}`}",
                 <br />
@@ -145,7 +145,7 @@ export default function Home() {
                 <br />
                 src="/image-placeholder.svg"
                 <br />
-                style=&#x7B;
+                style=&#x7B;&#x7B;
                 <br />
                 objectFit: "cover",
                 <br />
@@ -161,7 +161,7 @@ export default function Home() {
                 <br />
                 &lt;/div&gt;
                 <br />
-                &lt;div style=&#x7B;
+                &lt;div style=&#x7B;&#x7B;
                 <br />
                 padding: 15,
                 <br />
@@ -175,11 +175,11 @@ export default function Home() {
                 <br />
                 gap: 10,
                 <br />
-                &#x7D;
+                &#x7D;&#x7B;
                 <br />
                 &gt;
                 <br />
-                &lt;h2 style=&#x7B;
+                &lt;h2 style=&#x7B;&#x7B;
                 <br />
                 fontSize: "{`${cardTitleSize}`}",
                 <br />
@@ -187,19 +187,19 @@ export default function Home() {
                 <br />
                 wordBreak: "break-all"
                 <br />
-                &#x7D;&gt;
+                &#x7D;&#x7B;&gt;
                 <br />
                 {cardTitle}
                 <br />
                 &lt;/h2&gt;
                 <br />
-                &lt;p style=&#x7B;
+                &lt;p style=&#x7B;&#x7B;
                 <br />
                 fontSize: "{`${cardTextSize}`}",
                 <br />
                 wordBreak: "break-all"
                 <br />
-                &#x7D;&gt;
+                &#x7D;&#x7B;&gt;
                 <br />
                 {cardText}
                 <br />
