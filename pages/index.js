@@ -8,6 +8,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import { useState } from "react";
 import FlexContainer from "@/components/Containers/FlexContainer";
+import Image from "next/image";
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
@@ -117,7 +118,7 @@ export default function Home() {
                 <br />
                 backgroundColor: "{`${backgroundColor}`}",
                 <br />
-                border: "{`${borderSize}px solid ${borderColor}`},
+                border: "{`${borderSize}px solid ${borderColor}`}",
                 <br />
                 borderRadius: "{`${cardBorderRadius}`}",
                 <br />
