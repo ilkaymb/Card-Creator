@@ -125,9 +125,7 @@ export default function Home() {
                 <br />
                 paddingTop: "{`${imageMarginTop}`}",
                 <br />
-                &#x7D;
-                <br />
-                &#x7D;&gt;
+                &#x7D; &#x7D;&gt;
                 <br />
                 &lt;div style=&#x7B;&#x7B;
                 <br />
@@ -137,7 +135,7 @@ export default function Home() {
                 <br />
                 position: "relative",
                 <br />
-                &#x7D;
+                &#x7D; &#x7D;
                 <br />
                 &gt;
                 <br />
@@ -151,7 +149,7 @@ export default function Home() {
                 <br />
                 objectPosition: "center",
                 <br />
-                &#x7D;
+                &#x7D; &#x7D;
                 <br />
                 alt="image-placeholder"
                 <br />
@@ -175,7 +173,7 @@ export default function Home() {
                 <br />
                 gap: 10,
                 <br />
-                &#x7D;&#x7B;
+                &#x7D;&#x7D;
                 <br />
                 &gt;
                 <br />
@@ -187,7 +185,7 @@ export default function Home() {
                 <br />
                 wordBreak: "break-all"
                 <br />
-                &#x7D;&#x7B;&gt;
+                &#x7D;&#x7D;&gt;
                 <br />
                 {cardTitle}
                 <br />
@@ -199,7 +197,7 @@ export default function Home() {
                 <br />
                 wordBreak: "break-all"
                 <br />
-                &#x7D;&#x7B;&gt;
+                &#x7D;&#x7D;&gt;
                 <br />
                 {cardText}
                 <br />
